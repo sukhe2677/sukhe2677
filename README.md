@@ -7,7 +7,7 @@ I build **scalable, performance-driven web applications** with a strong focus on
 
 ## 🧠 About Me
 
-I'm a **Full-Stack Developer with 2.5+ years of professional experience**, specializing in PHP-based ecosystems and modern web solutions.  
+I'm a **Full-Stack Developer with 3+ years of professional experience**, specializing in PHP-based ecosystems and modern web solutions.  
 I enjoy turning complex requirements into **clean, maintainable, and user-friendly products**.
 
 - 💻 Expertise in **PHP, WordPress, Laravel, CodeIgniter, Moodle**
