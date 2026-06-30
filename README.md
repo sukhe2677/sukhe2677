@@ -14,7 +14,6 @@ I enjoy turning complex requirements into **clean, maintainable, and user-friend
 - 🎓 Built and customized **LMS platforms**, Moodle plugins, and academic systems
 - 🔌 Developed **custom WordPress plugins**, APIs, and PWAs
 - ⚡ Strong focus on **performance optimization & clean architecture**
-- 🏗️ Founder mindset — working towards building an **IT company focused on LMS & web solutions**
 
 ---
 
