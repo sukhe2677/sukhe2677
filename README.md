@@ -73,7 +73,7 @@ I enjoy turning complex requirements into **clean, maintainable, and user-friend
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukhe2677&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhe2677&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sukhe2677&layout=compact&theme=default)
 
 ---
 
